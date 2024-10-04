@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+    background-color: #f8f9fa; /* Light background */
+}
+
+.navbar {
+    border-bottom: 2px solid #007bff; /* Blue bottom border */
+}
+
+.navbar-brand {
+    font-weight: bold; /* Bold brand name */
+    color: #007bff !important; /* Bootstrap primary color */
+}
+
+.nav-link {
+    font-size: 1.1rem; /* Slightly larger text */
+}
+
+.nav-link:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+.nav-item.active .nav-link {
+    font-weight: bold; /* Bold active link */
+    color: #0056b3 !important; /* Dark blue for active link */
+}
+i
+img{
+  background-size: cover;
+  height: 1920px;
+  width: 1080px;
+}
